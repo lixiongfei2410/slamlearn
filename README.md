@@ -1,6 +1,6 @@
 ### SlamLearn
 
-*study step by step !*
+**study step by step !**
 
--- readfile
---- show image
+- readfile
+  - show image
